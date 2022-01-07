@@ -1,0 +1,2 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git, onde é utilizado uma linguagem de programação para realizar diferentes tarefas.
+No Git Bash é possivel executar comandos diferentes, como criar arquivos, editar arquivos, finalizar arquivos e mandar o arquivo para rede.É possível ver alguns comandos no "README" de meu repositório.
