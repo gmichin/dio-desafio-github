@@ -6,11 +6,12 @@ criar arquivos, editar arquivos, finalizar arquivos e mandar
 o arquivo para rede.É possível ver alguns comandos no "README"
 desse repositório;
 
-Outros comandos interessantes são:
+Outros comandos interessantes no Git bahs são:
 openssl sha1 ((nome do arquivo)) - demonstra a chave de acesso
 para o arquivo específico, podendo demonstrar se houve
 atualizações no arquivo. É como se fosse o endereço do
 arquivo em específico;
+mkdir ((nome da pasta)) - criar pasta;
 
 Chave SSH - modo de identificação entre cliente(Git)
 e servidor (GitHub)utilizando autenticação chave de 

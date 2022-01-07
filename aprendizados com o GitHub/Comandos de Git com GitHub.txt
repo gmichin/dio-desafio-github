@@ -1,0 +1,6 @@
+Vá no site do GitHub e escolha o repositório que vc deseja
+clique no repositório que vc deseja copiar par seu Git local,
+dentro dele irá aparecer um botão verde escrito "code" e 
+pegue o link HTTPS. Após isso, abra o Git Bash e use o 
+comando git clone ((link HTTPS)) e assim vc conseguirá o 
+repositório do GitHub para seu pc;
