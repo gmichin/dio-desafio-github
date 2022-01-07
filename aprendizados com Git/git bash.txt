@@ -1,2 +1,25 @@
 O Git Bash é um terminal extendido para otimizar o uso do Git, onde é utilizado uma linguagem de programação para realizar diferentes tarefas.
-No Git Bash é possivel executar comandos diferentes, como criar arquivos, editar arquivos, finalizar arquivos e mandar o arquivo para rede.É possível ver alguns comandos no "README" de meu repositório.
+No Git Bash é possivel executar comandos diferentes, como 
+criar arquivos, editar arquivos, finalizar arquivos e mandar 
+o arquivo para rede.É possível ver alguns comandos no "README"
+desse repositório;
+
+Outros comandos interessantes são:
+openssl sha1 ((nome do arquivo)) - demonstra a chave de acesso
+para o arquivo específico, podendo demonstrar se houve
+atualizações no arquivo. É como se fosse o endereço do
+arquivo em específico;
+
+Chave SSH - modo de identificação entre cliente(Git)
+e servidor (GitHub)utilizando autenticação chave de 
+criptografia pública;
+ssj-keygen -t ed25519 -C gmassamichi@gmail.com --geração de
+par de chaves e suas localizações;
+cat id_ed25519.pub -- vizualizar conteúdo da chave pública.Se
+retirar o ".pub", essa será a chave privada;
+eval $(ssh-agent -s) -- número final demonstra o número de
+processo;
+ssh-add id_ed25519 -- adicionar entidade (id_ed25519);
+
+
+

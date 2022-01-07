@@ -1,7 +1,13 @@
-Link para cadastro no site GitHub: https://github.com/
-
 Git é um sistema de controle distribuído gratuito e de código aberto produzido para suportar tudo que vem de pequeno a grande projeto com velocidade e eficiência.
 
 Link para download do Git: https://git-scm.com/downloads
 
-Ja o GitHub é uma plataforma de rede que vc pode compartilhar um arquivo de seu pc para a rede, assim como pegar um arquivo da rede. O interessante para programadores nessa rede é que vc consegue compartilhar um algoritmo/ programa e atualiza-lo sem perder nenhuma das atualizações anteriores, podendo fazer diferentes "caminhos" com uma mesma base de programa
+
+Ja o GitHub é uma plataforma de rede que vc pode compartilhar
+um arquivo de seu pc para a rede, assim como pegar um arquivo
+da rede. O interessante para programadores nessa rede é que 
+vc consegue compartilhar um algoritmo/ programa e atualiza-lo
+sem perder nenhuma das atualizações anteriores, podendo fazer
+diferentes "caminhos" com uma mesma base de programa.
+
+Link para cadastro no site GitHub: https://github.com/
