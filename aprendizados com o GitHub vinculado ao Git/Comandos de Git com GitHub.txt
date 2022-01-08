@@ -1,0 +1,16 @@
+Vá no site do GitHub e escolha o repositório que vc deseja
+clique no repositório que vc deseja copiar par seu Git local,
+dentro dele irá aparecer um botão verde escrito "code" e 
+pegue o link HTTPS. Após isso, abra o Git Bash e use o 
+comando 'git clone ((link HTTPS))' e assim vc conseguirá o 
+repositório do GitHub para seu pc;
+
+Crie um repositório no GitHub, e pegue o link abaixo do 
+subtitulo "...or push an existing repository from command line".
+Vá git Bash use o comando 'git remote add origin ((Link do
+GitHub))' para adicionar a origem remota. O "origin" do comando 
+anterior pode ser substituito por outros nomes Use o comando 
+'git remote -v' para listar a lista de repositório que temos 
+cadastrado. Use o comando 'git status' para ver se esta tudo 
+certo. Depois execute o comando 'git push origin master', 
+assim, seu repositório é mandado ao GitHub;

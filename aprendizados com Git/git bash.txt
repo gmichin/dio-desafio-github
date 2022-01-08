@@ -1,28 +1,50 @@
-O Git Bash é um terminal extendido para otimizar o uso do Git,
-onde é utilizado uma linguagem de programação para realizar 
-diferentes tarefas.
-No Git Bash é possivel executar comandos diferentes, como 
-criar arquivos, editar arquivos, finalizar arquivos e mandar 
-o arquivo para rede.É possível ver alguns comandos no "README"
-desse repositório;
+     O Git Bash é um terminal extendido para otimizar o uso 
+do Git, onde é utilizado uma linguagem de programação para 
+realizar diferentes tarefas;
+     No Git Bash é possivel executar comandos diferentes, 
+como criar arquivos, editar arquivos, finalizar arquivos e 
+mandar o arquivo para rede.É possível ver alguns comandos no 
+"README" desse repositório;
 
-Outros comandos interessantes no Git bahs são:
-openssl sha1 ((nome do arquivo)) - demonstra a chave de acesso
-para o arquivo específico, podendo demonstrar se houve
-atualizações no arquivo. É como se fosse o endereço do
+     Outros comandos interessantes no Git bahs são:
+
+     - openssl sha1 ((nome do arquivo)):: demonstra a chave de
+acesso para o arquivo específico, podendo demonstrar se houve
+atualizações no arquivo. É como se fosse o endereço do 
 arquivo em específico;
-mkdir ((nome da pasta)) - criar pasta;
+     - mkdir ((nome da pasta)):: criar pasta;
+     - cd ((nome da pasta)):: entrar na pasta;
+     - git init:: inciar o git dentro da pasta;
+     - ls: mostrar arquivos na pasta;
+     - git status:: ajudar a monitorar os arquivos;
+     - mv ((nome do arquivo que deseja mover)) ./((para onde
+deseja mover arquivo)):: mover arquivo para pasta;
+     - ls -a:: mostrar arquivos ocultos;
+     - git config --global user.email "((nome do email desejado))"::
+configurar um novo email;
+     - git config --global --unset user.email:: deletar seu 
+email da configuração;
+     - git config --global user.name ((nome do usuario desejado))::
+configurar um novo nome de usuário;
+     - git config --global --unset user.name:: deletar seu 
+nome de usuário da configuração;
+     - git add .:: adicionar todos arquivos;
+     - git add ((nome do arquivo)) ((nome da pasta onde arquivo
+ira ser adicionado)):: adicionar arquivo em determinada pasta;
+     - git commit -m "((String/mensagem))":: gerar commit e
+passa o sha1;
 
-Chave SSH - modo de identificação entre cliente(Git)
+     Chave SSH: modo de identificação entre cliente(Git)
 e servidor (GitHub)utilizando autenticação chave de 
 criptografia pública;
-ssj-keygen -t ed25519 -C gmassamichi@gmail.com --geração de
-par de chaves e suas localizações;
-cat id_ed25519.pub -- vizualizar conteúdo da chave pública.Se
-retirar o ".pub", essa será a chave privada;
-eval $(ssh-agent -s) -- número final demonstra o número de
-processo;
-ssh-add id_ed25519 -- adicionar entidade (id_ed25519);
+
+     - ssj-keygen -t ed25519 -C gmassamichi@gmail.com:: geração
+de par de chaves e suas localizações;
+    - cat id_ed25519.pub:: vizualizar conteúdo da chave pública.
+Se retirar o ".pub", essa será a chave privada;
+    - eval $(ssh-agent -s) -- número final demonstra o número 
+de processo;
+    - ssh-add id_ed25519 -- adicionar entidade (id_ed25519);
 
 
 
