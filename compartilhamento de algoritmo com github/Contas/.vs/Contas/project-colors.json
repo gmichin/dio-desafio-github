@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd840d28-767e-4074-bb5b-d30100c03f57": {
+      "ProjectGuid": "cd840d28-767e-4074-bb5b-d30100c03f57",
+      "DisplayName": "Contas",
+      "ColorIndex": 0
+    },
+    "2ef807df-1aad-467f-bd67-adae4a54e722": {
+      "ProjectGuid": "2ef807df-1aad-467f-bd67-adae4a54e722",
+      "DisplayName": "ContasTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

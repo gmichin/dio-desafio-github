@@ -1,0 +1,15 @@
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\bin\Debug\net6.0\Contas.exe
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\bin\Debug\net6.0\Contas.deps.json
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\bin\Debug\net6.0\Contas.runtimeconfig.json
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\bin\Debug\net6.0\Contas.dll
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\bin\Debug\net6.0\ref\Contas.dll
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\bin\Debug\net6.0\Contas.pdb
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\obj\Debug\net6.0\Contas.csproj.AssemblyReference.cache
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\obj\Debug\net6.0\Contas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\obj\Debug\net6.0\Contas.AssemblyInfoInputs.cache
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\obj\Debug\net6.0\Contas.AssemblyInfo.cs
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\obj\Debug\net6.0\Contas.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\obj\Debug\net6.0\Contas.dll
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\obj\Debug\net6.0\ref\Contas.dll
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\obj\Debug\net6.0\Contas.pdb
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\programação\Desafio Git e Github\dio-desafio-github\compartilhamento de algoritmo\Contas\Contas\obj\Debug\net6.0\Contas.genruntimeconfig.cache
