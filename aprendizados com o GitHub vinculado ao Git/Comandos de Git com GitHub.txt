@@ -13,4 +13,10 @@ anterior pode ser substituito por outros nomes Use o comando
 'git remote -v' para listar a lista de repositório que temos 
 cadastrado. Use o comando 'git status' para ver se esta tudo 
 certo. Depois execute o comando 'git push origin master', 
-assim, seu repositório é mandado ao GitHub;
+assim, seu repositório é mandado ao GitHub. "Master" é a 
+denominação em azul após a localização de seu repositório no 
+git bash;
+
+git commit -m ((nome do processo a ser feito)):: "comitar o que
+vc fez. Deixar o repositório preparado para ser empurrado(push)
+para o github;
